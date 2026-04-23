@@ -17,7 +17,6 @@ venv.bak/
 
 # PyInstaller
 build/
-dist/
 *.spec
 
 # Logs
